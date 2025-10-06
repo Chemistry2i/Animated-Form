@@ -49,3 +49,9 @@ This project is a complete, full-stack web application for handling and storing 
 3.  **Launch the frontend**
     *   Open the `index.html` file in your web browser to view the form.
     *   Fill out the form and submit it. The data will be sent to your running Node.js server and saved to the MongoDB database.
+
+## 🤝 Contribution
+Contributions are welcome! If you find a bug or have a suggestion, please open an issue or submit a pull request.
+
+## 📄 License
+This project is licensed under the MIT License.
